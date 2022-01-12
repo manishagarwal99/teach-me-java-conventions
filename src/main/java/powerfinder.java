@@ -1,5 +1,3 @@
-package powerpackage;
-
 public class powerfinder {
     public static int OF(int xyz, int pqr) {
         int p = 1;
